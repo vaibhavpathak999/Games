@@ -1,0 +1,14 @@
+This is Windows PC version.
+Play and Enjoy.
+Do share your views on crazynitian@gmail.com
+
+Controls/Keys:
+
+Forward -> W
+Backward -> S
+Left -> A
+Right -> D
+Sprint -> Left Shift
+Turn On/Off Flash Light -> L
+Sell Gold/Silver -> P
+Exit -> Esc key
